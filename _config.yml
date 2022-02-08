@@ -1,0 +1,21 @@
+---
+port: 4000
+host: 0.0.0.0
+safe: false
+
+exclude: [README.md, .gitignore]
+timezone: null
+lsi: false
+markdown: kramdown
+
+### content configuration ###
+title:       "Dynamic Adversarial Data Collection"
+keywords:    ""
+description: "The First Workshop on Dynamic Adversarial Data Collection (DADC) at NAACL 2022"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+
+collections:
+  - pages_2022
+
+theme: jekyll-theme-minimal
