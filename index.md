@@ -9,6 +9,9 @@ Workshop information coming soon on February 11. In the meantime, join our [mail
 |:--------------------------------|:------------------------------------------------------------------|
 | **February 11, 2022**          | First Call for Workshop Papers                                             |
 | **March 11, 2022**           | Second Call for Workshop Papers                                               |
+|**April 8, 2022**           | Submission deadline (papers requiring peer review) |
+| **May 1, 2022**           | Submission deadline (papers with ARR reviews) |
+| **May 1, 2022**           | Submission deadline (non-archival papers) |
 | **May 6, 2022**           | Notification of Acceptance                 |
 | **May 20, 2022** | Camera-ready Papers Due |
 | **July 14-15, 2022** | Workshop Dates at NAACL 2022 |
@@ -32,7 +35,7 @@ Workshop information coming soon on February 11. In the meantime, join our [mail
 * Max Bartolo
 * Hannah Rose Kirk
 * Tristan Thrush
-* Katerina Margatina
+* [Katerina Margatina](https://katerinamargatina.github.io/)
 * [Pedro Rodriguez](https://www.pedro.ai)
 * Mimansa Jaiswal
 
@@ -41,12 +44,10 @@ Workshop information coming soon on February 11. In the meantime, join our [mail
 * Pontus Stenetorp
 * Robin Jia
 * Adina Williams
-* Douwe Kiala
+* Douwe Kiela
 
 ### Program Committee
 
-* Core Team
-* Advisory Committee
 * Shi Feng
 * Paul Röttger
 * Chen Zhao
